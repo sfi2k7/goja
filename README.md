@@ -1,3 +1,6 @@
+Please support the original Project developer and project @ https://github.com/dop251/goja
+
+
 goja
 ====
 
